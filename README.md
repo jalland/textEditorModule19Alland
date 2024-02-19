@@ -7,6 +7,8 @@ This application creates a Progressive Web Application that is a text editor. Th
 ## Github code
 https://github.com/jalland/textEditorModule19Alland
 
+## Deployed application 
+https://texteditormodule19alland.onrender.com/ 
 
 ## Screenshot of application
 <img width="1775" alt="Screen Shot 2024-02-19 at 1 35 34 PM" src="https://github.com/jalland/textEditorModule19Alland/assets/15932648/ab5671b8-7527-4fdd-b7fb-5cf8e82971b2">
